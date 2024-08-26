@@ -1,0 +1,25 @@
+python-dotenv 
+langchain 
+langchain_community
+langchain-chroma
+langchain_experimental
+pypdf
+unstructured[md]
+streamlit
+streamlit-chat
+## For HuggingFace
+huggingface_hub
+sentence_transformers
+langchain-huggingface
+## For Google LLM
+langchain-google-genai 
+pillow
+## For Groq LLM
+langchain_groq
+## For Together LLM
+langchain-together
+## For Ollama LLM
+langchain_ollama
+# For Cohere Embedding & Rerank
+langchain-cohere
+cohere
